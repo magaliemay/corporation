@@ -1,0 +1,92 @@
+body
+{
+	/*background-color: #58b9e4 !important;*/
+	  background-image: linear-gradient(-90deg, #000000, #58b9e4);
+}
+
+body > h2
+{
+	color: #ffffff;
+	top: 30px;
+	position:fixed;
+	text-align: center;
+}
+
+#frm-container
+{
+	width: 450px;
+	margin-top: 80px;
+	font-family: Cabin;
+	font-size: 10pt;
+	color: #58b9e4;
+
+}
+#frm-container input::placeholder
+{
+	color: #58b9e4;
+	font-size: 10pt;
+}
+#frm-container .btn-primary
+{
+	background-color: #58b9e4; 
+	border-color: #58b9e4;
+}
+
+
+
+#card
+{
+	/*border: 2px solid #000;*/
+	box-shadow: 3px 3px 5px #58b9e4;
+}
+
+/* 
+**********************************
+*DASHBOARD STYLE 				 *
+**********************************
+*/
+.jumbotron
+{
+	background: url('../img/bg1.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 250px;
+}
+
+.list-group-item
+{
+	color: #000;
+}
+
+.list-group-item.active
+{
+	color: #000;
+	background-color: #ccc;
+	border: 1px solid rgba(0,0,0,.125);
+	
+}
+
+
+#card-body
+{
+	background-color: #ccc;
+	color: #fff;
+}
+
+.textAnswer
+{
+	width:265px;
+	display: inline;
+}
+
+.textNum
+{
+	width:45px;
+	display: inline;
+}
+
+#login_form, i, .fa{
+	padding-bottom: 5px;
+}
+
