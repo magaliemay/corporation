@@ -18,8 +18,6 @@
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
 <script src="http://cdn.ckeditor.com/4.6.1/standard/ckeditor.js"></script>
 
-
-
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
